@@ -1,0 +1,74 @@
+{
+    "prodcuts": [
+        {
+            "id": 1,
+            "name": "a",
+            "imageUrl": "https://cdn04.nnnow.com/web-images/medium/styles/MT927MHGTDM/1668080091861/1.jpg",
+            "price": "Rs.4,300",
+            "rating": 3
+        },
+        {
+            "id": 2,
+            "name": "b",
+            "imageUrl": "https://cdn02.nnnow.com/web-images/medium/styles/EEC0JNQHILF/1604298678086/1.jpg",
+            "price": "Rs.4,300",
+            "rating": 4
+        },
+        {
+            "id": 3,
+            "name": "c",
+            "imageUrl": "https://cdn06.nnnow.com/web-images/medium/styles/LEBUDDYXJG9/1636700669414/1.jpg",
+            "price": "Rs.3,650",
+            "rating": 3.3
+        },
+        {
+            "id": 4,
+            "name": "d",
+            "imageUrl": "https://cdn14.nnnow.com/web-images/medium/styles/XK9OXIS4KNN/1680508291008/1.jpg",
+            "price": "Rs.3,650",
+            "rating": 4
+        },
+        {
+            "id": 5,
+            "name": "e",
+            "imageUrl": "https://cdn01.nnnow.com/web-images/medium/styles/AL1X3TN9XHV/1644913480919/1.jpg",
+            "price": "Rs.3,650",
+            "rating": 6
+        },
+        {
+            "id": 6,
+            "name": "f",
+            "imageUrl": "https://cdn14.nnnow.com/web-images/medium/styles/PR4DFDDXUZP/1636700673974/1.jpg",
+            "price": "Rs.3,650",
+            "rating": 8
+        },
+        {
+            "id": 7,
+            "name": "g",
+            "imageUrl": "https://cdn17.nnnow.com/web-images/medium/styles/T1CA0US0QOH/1614353172645/1.jpg",
+            "price": "Rs.3,250",
+            "rating": 8
+        },
+        {
+            "id": 8,
+            "name": "h",
+            "imageUrl": "https://cdn03.nnnow.com/web-images/medium/styles/RPKIHZO79QL/1670846367964/1.jpg",
+            "price": "Rs.3,650",
+            "rating": 6
+        },
+        {
+            "id": 9,
+            "name": "i",
+            "imageUrl": "https://cdn06.nnnow.com/web-images/medium/styles/GWPFWHRC4RQ/1494571104810/1.jpg",
+            "price": "Rs.3,650",
+            "rating": 7
+        },
+        {
+            "id": 10,
+            "name": "j",
+            "imageUrl": "https://cdn15.nnnow.com/web-images/medium/styles/OF6595A8FKM/1583123051588/1.jpg",
+            "price": "Rs.1,800",
+            "rating": 5
+        }
+    ]
+}

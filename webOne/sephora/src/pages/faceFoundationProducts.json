@@ -1,0 +1,74 @@
+{
+    "prodcuts": [
+        {
+            "id": 1,
+            "name": "Light Reflecting Foundation-Syracusee",
+            "imageUrl": "https://cdn01.nnnow.com/web-images/medium/styles/09YC1DPT0JW/1695993287799/1.jpg",
+            "price": "Rs.4,300",
+            "rating": 3
+        },
+        {
+            "id": 2,
+            "name": "Light Reflecting Foundation-Caracas",
+            "imageUrl": "https://cdn06.nnnow.com/web-images/medium/styles/ECE1DZ99529/1696490416428/1.jpg",
+            "price": "Rs.4,300",
+            "rating": 4
+        },
+        {
+            "id": 3,
+            "name": "faux filter luminous Matte Full Coverage Liquid Foundation -120B Vanilla",
+            "imageUrl": "https://cdn06.nnnow.com/web-images/medium/styles/W8O7MK0QC9A/1631791089745/1.jpg",
+            "price": "Rs.3,650",
+            "rating": 3.3
+        },
+        {
+            "id": 4,
+            "name": "faux filter luminous Matte Full Coverage Liquid Foundation -110N Angel Food",
+            "imageUrl": "https://cdn01.nnnow.com/web-images/medium/styles/85JV0IBOU8B/1631790324298/1.jpg",
+            "price": "Rs.3,650",
+            "rating": 4
+        },
+        {
+            "id": 5,
+            "name": "faux filter luminous Matte Full Coverage Liquid Foundation -210B Chai",
+            "imageUrl": "https://cdn06.nnnow.com/web-images/medium/styles/VHI8O3X339G/1631791089772/1.jpg",
+            "price": "Rs.3,650",
+            "rating": 6
+        },
+        {
+            "id": 6,
+            "name": "faux filter luminous Matte Full Coverage Liquid Foundation -410G Brown Sugar",
+            "imageUrl": "https://cdn19.nnnow.com/web-images/medium/styles/ZALA87YU1EL/1631791050487/1.jpg",
+            "price": "Rs.3,650",
+            "rating": 8
+        },
+        {
+            "id": 7,
+            "name": "Easy Bake Loose Powder Foundation - Sugar Cookie",
+            "imageUrl": "https://cdn02.nnnow.com/web-images/medium/styles/N4VRB01L4U7/1679650620397/1.jpg",
+            "price": "Rs.3,250",
+            "rating": 8
+        },
+        {
+            "id": 8,
+            "name": "faux filter luminous Matte Full Coverage Liquid Foundation -200B Shortbread",
+            "imageUrl": "https://cdn09.nnnow.com/web-images/medium/styles/YSXYR0CURFQ/1631791050442/1.jpg",
+            "price": "Rs.3,650",
+            "rating": 6
+        },
+        {
+            "id": 9,
+            "name": "faux filter luminous Matte Full Coverage Liquid Foundation -250G Cheesecake",
+            "imageUrl": "https://cdn11.nnnow.com/web-images/medium/styles/148EKI5VM3Z/1631790357716/1.jpg",
+            "price": "Rs.3,650",
+            "rating": 7
+        },
+        {
+            "id": 10,
+            "name": "Best Skin Perfect Natural Finish Longwear Foundation - 25N",
+            "imageUrl": "https://cdn19.nnnow.com/web-images/medium/styles/KDZT6YQWGJZ/1617878881555/1.jpg",
+            "price": "Rs.1,800",
+            "rating": 5
+        }
+    ]
+}
