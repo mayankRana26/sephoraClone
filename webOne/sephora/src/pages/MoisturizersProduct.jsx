@@ -4,19 +4,19 @@ import Header from '../components/Header';
 
 function FaceFoundationProducts() {
     const products = MoisturizersProduct.products || [];
-
+console.log(MoisturizersProduct)
    
 
     return (
         <>
             <Header />
-            <div>
-                {products.map((product) => {
+            <div className='items'>
+                {MoisturizersProduct.products.map((product) => {
                     return (
-                        <div key={product.id}>
-                            <h3>{product.name}</h3>
+                        <div  key={product.id}>
                             <img src={product.imageUrl} alt={product.name} />
-                            <p>Price: {product.price}</p>
+                            <p>{product.name}</p>
+                            <h3>Price: {product.price}</h3>
                             <p>Rating: {product.rating}</p>
                         </div>
                     );

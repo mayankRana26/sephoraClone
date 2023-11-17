@@ -1,13 +1,17 @@
-/* styles.css */
-
-h1 {
-  position:fixed; /* Use absolute positioning to keep it in place */
+#sephora {
+  position: fixed;
   top: 0;
-  left: 42%; /* Adjust the left position as needed */
-  z-index: 101; 
+  z-index: 100;
+  background-color: white;
   color: black;
+  width: 100%;
   letter-spacing: 10px;
 }
+
+h1 {
+  margin-left: 43%;
+}
+
 nav {
   position: fixed;
   top: 60px;
@@ -15,7 +19,6 @@ nav {
   width: 100%;
   background-color: #fff;
   color: black;
-  /* padding: 0.5rem; */
   z-index: 100;
 }
 
@@ -23,6 +26,7 @@ ul {
   list-style: none;
   display: flex;
   justify-content: space-around;
+
 }
 
 li {
@@ -34,23 +38,26 @@ a {
   color: black;
   font-size: larger;
   font-weight: bolder;
-  
+
 }
-a:hover{
+
+a:hover {
   color: rgb(230, 102, 172);
-  box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 4px 0px inset;}
+  box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 4px 0px inset;
+}
+
 .container {
   width: 100%;
   overflow: hidden;
 }
+
 .slider-container {
   position: relative;
-  width:100%;
-  height:500px;
-   /* Adjust the maximum width as needed */
-  margin:auto;
+  width: 100%;
+  height: 500px;
+  margin: auto;
   margin-top: 50px;
-  
+
   overflow: hidden;
 
 }
@@ -60,9 +67,9 @@ a:hover{
   margin-top: 25px;
   transition: transform 0.5s ease-in-out;
   width: 100%;
-  height: 500px; /* Adjust the height as needed */
+  height: 500px;
   position: relative;
- 
+
   background-size: cover;
   background-position: center;
 }
@@ -70,33 +77,53 @@ a:hover{
 .slider img {
   width: 100%;
   height: 100%;
-  
-  object-fit:cover;
-  /* Remove the margin and padding properties */
-  /* margin-left: 20%; */
-  /* padding: 20%; */
-  /* background-color: rgb(169, 245, 46); */
+
+  object-fit: cover;
+
 }
-/* Style the dropdown container */
+
 .dropDown {
   display: none;
   position: absolute;
-  background-color: white; /* Set the background color */
+  background-color: white;
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
 }
 
-/* Style the dropdown links */
+
 .dropDown div {
   padding: 12px;
   text-align: left;
 }
 
-/* Style the dropdown links on hover */
+
 .dropDown div:hover {
-  background-color: white; /* Change the background color on hover */
+  background-color: white;
 }
 
-/* Show the dropdown container on hover */
+
 li:hover .dropDown {
   display: block;
+}
+
+.items {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  margin-top: 120px;
+  gap: 5px;
+}
+
+.items img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.items p,
+.items h3 {
+  text-align: center;
+  margin: 10px 0;
 }

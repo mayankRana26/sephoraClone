@@ -1,7 +1,7 @@
 import Navbar from "../Navbar"
 function Header(){
     return <div>
-         <div><h1>SEPHORA</h1></div>
+         <div id="sephora"><h1>SEPHORA</h1></div>
         <Navbar/>
     </div>
 }
